@@ -46,7 +46,7 @@ hr {
   font-weight: bold;
   font-size: 30px;
   line-height: 45px;
-  padding: 10px 0 0 12px;
+  padding: 0px 0 0 12px;
 }
 .navbar-default .navbar-nav li a {
   color: #202020;
@@ -298,7 +298,7 @@ hr {
 .fluid-img {
   width: 100%;
   display: block;
-  height: auto;
+  height: 200%;
 }
 /* END PORTFOLIO */
 
